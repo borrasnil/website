@@ -1,4 +1,9 @@
-# This is a test
+---
+title: GitHub auth with SSH
+layout: page
+---
+
+## This is a test
 A simple test to see markdown conversions on the web.
 
 There is not much to it.
