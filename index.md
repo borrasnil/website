@@ -4,6 +4,6 @@ Hello, i'm Nil! Welcome to my page.
 [GitHub](https://github.com/borrasnil)
 
 ### Check these out
-- [GitHub auth via SSH](/tutorials/git-ssh)
+- [How to VIM](/tutorials/vim-1)
 
 
