@@ -1,5 +1,5 @@
-# How to VIM - Deletion
-This chapter will explain different ways of deleting text.
+# How to VIM - Visual mode
+This chapter will explain how to use visual mode.
 
 > This guide has been heavily inspired by `vimtutor`
 

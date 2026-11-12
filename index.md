@@ -4,6 +4,6 @@ Hello, i'm Nil! Welcome to my page.
 [GitHub](https://github.com/borrasnil)
 
 ### Check these out
-- [How to VIM](/tutorials/vim-1)
+- [How to VIM](/tutorials/vim-0)
 
 

@@ -25,7 +25,7 @@ Use `R` to enter replace mode, all characters you type will replace others.
 
 ## Lesson 1.2.3: The delete command
 Use `dd` to delete a line.\
-Use `dw` to delete untill next word.\
+Use `dw` to delete untill next word.
 
 VIM is full of bindings like these, you cast expresions rather than typing random characters.\
 You can do `de` to (d)elete till the (e)nd of the word.\
@@ -41,7 +41,7 @@ Use `cw` to delete untill the next word and enter insert mode.\
 
 ## Lesson 1.2.5: Arround and inner
 Now if you used any of the commands listed on the last lesson you would realise you need to go to the begining of a word to delete it with `dw`.\
-This is where the (a)rround and (i)nner commands come in.\
+This is where the arround and inner commands come in.\
 We can use them after a verb like delete to modify the funcitonality of it.
 
 Use `diw` to (d)elete (i)nner (w)ord.\
