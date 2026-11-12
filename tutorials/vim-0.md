@@ -17,6 +17,11 @@ For each of these topics there will be multiple explanations with examples.\
 This first page is to explain the philosophy of the program and why it was created.\
 If you want to skip the introduction head to [How to VIM - Basic usage](/tutorials/vim-1) to start with the tutorial.
 
+### Index
+1. [How to VIM - Basic usage](tutorials/vim-1)
+2. [How to VIM - Movement and deletion](tutorials/vim-2)
+3. [How to VIM - Visual mode](tutorials/vim-3)
+
 ### Origins of VIM
 Vi IMproved as its name implies is the successor of `Vi` an old text editor used in the '60s.\
 VIM is a free text editor and multiplatform open source software released in 1991.

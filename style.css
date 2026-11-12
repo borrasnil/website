@@ -1,4 +1,9 @@
 /* ---- Base ---- */
+html {
+  background: #111;
+  color-scheme: dark;
+}
+
 body {
   background: #111;
   color: #e6e6e6;

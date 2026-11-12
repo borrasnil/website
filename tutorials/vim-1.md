@@ -62,4 +62,4 @@ To enter normal mode again by just pressing `<ESC>`
 4. Use `i` and `a` to enter INSERT mode
 
 ### Next chapter
-[How to VIM - Movement and delete](/tutorials/vim-2)
+[How to VIM - Movement and deletion](/tutorials/vim-2)
