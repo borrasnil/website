@@ -5,6 +5,7 @@ This first chapter will cover how to use VIM on its most surface level.
 
 ## Lesson 1.1.1: Moving the cursor
 To move the cursor press h, j, k ,l as follows:
+```
         ^            
         k             The `h` key moves the cursor left
                       The `j` key moves the cursor down
@@ -14,6 +15,7 @@ To move the cursor press h, j, k ,l as follows:
 
         j
         v
+```
 
 ---
 
