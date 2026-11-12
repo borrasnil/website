@@ -18,9 +18,9 @@ This first page is to explain the philosophy of the program and why it was creat
 If you want to skip the introduction head to [How to VIM - Basic usage](/tutorials/vim-1) to start with the tutorial.
 
 ### Index
-1. [How to VIM - Basic usage](tutorials/vim-1)
-2. [How to VIM - Movement and deletion](tutorials/vim-2)
-3. [How to VIM - Visual mode](tutorials/vim-3)
+1. [How to VIM - Basic usage](vim-1)
+2. [How to VIM - Movement and deletion](vim-2)
+3. [How to VIM - Visual mode](vim-3)
 
 ### Origins of VIM
 Vi IMproved as its name implies is the successor of `Vi` an old text editor used in the '60s.\
