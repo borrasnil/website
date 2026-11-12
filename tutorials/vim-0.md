@@ -1,3 +1,7 @@
+---
+title: Introduction - How to VIM
+---
+
 # How to VIM - Introduction
 A deepdive into VIM
 
