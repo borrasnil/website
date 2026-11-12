@@ -58,4 +58,4 @@ Press `A` to enter INSERT mode at the end of the line.
 4. Use `i` and `a` to enter INSERT mode
 
 ### Next chapter
-[How to VIM - Movement and delete](/tutorial/vim-2)
+[How to VIM - Movement and delete](/tutorials/vim-2)

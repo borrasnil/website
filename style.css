@@ -1,0 +1,21 @@
+body {
+  background: #111;
+  color: #e6e6e6;
+  font: 17px/1.6 Georgia, serif;
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+h1, h2 { color: #fff; }
+
+a { color: #7aa2f7; }
+
+pre {
+  background: #1a1a1a;
+  padding: 1em;
+  border-radius: 6px;
+  overflow-x: auto;
+}
+
+code { font-family: Consolas, monospace; }
