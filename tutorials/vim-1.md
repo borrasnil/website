@@ -26,12 +26,12 @@ To move the cursor press h, j, k ,l as follows:
 ## Lesson 1.1.2: Basic commands
 Type `:` to execute a command in VIM.
 In VIM there are multiple ways of doing the same task, same applies to exiting it:
-- Type `:q` to quit
-- Type `:w` to write changes
-- Type `:wq` to write changes and quit
-- Type `:x` to write changes and quit
-- Type `<Ctrl>zq` to quit
-- Type `<Ctrl>zz` to write changes and quit
+- Type `:q` to quit.
+- Type `:w` to write changes.
+- Type `:wq` to write changes and quit.
+- Type `:x` to write changes and quit.
+- Type `<Ctrl>zq` to quit.
+- Type `<Ctrl>zz` to write changes and quit.
 
 Dont be overwhelmed by the possibilities or what option to use, they are all valid.
 
@@ -57,9 +57,9 @@ To enter normal mode again by just pressing `<ESC>`
 
 # Lesson 1.1.x Summary
 1. The cursor is moved using h, j, k, l
-2. Type `:q` to quit and `:w` to save
-3. There are three different VIM modes, you cant type on your file in NORMAL mode
-4. Use `i` and `a` to enter INSERT mode
+2. Type `:q` to quit and `:w` to save.
+3. There are three different VIM modes, you cant type on your file in NORMAL mode.
+4. Use `i` and `a` to enter INSERT mode.
 
 ### Next chapter
-[How to VIM - Movement and deletion](/tutorials/vim-2)
+[How to VIM - Movement and deletion](vim-2)

@@ -21,6 +21,7 @@ If you want to skip the introduction head to [How to VIM - Basic usage](/tutoria
 1. [How to VIM - Basic usage](vim-1)
 2. [How to VIM - Movement and deletion](vim-2)
 3. [How to VIM - Visual mode](vim-3)
+4. [How to VIM - Yanking and pasting](vim-4)
 
 ### Origins of VIM
 Vi IMproved as its name implies is the successor of `Vi` an old text editor used in the '60s.\

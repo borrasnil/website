@@ -16,7 +16,8 @@ This guide will cover basic movement and deletion.
 - Use `B` to jump to the start of the last full word.
 - Use `E` to jump to the end of the next full word.
 
-> What are full words? A simple word would be `house` whilst a full word is separated by a whitespace
+> What are full words? A simple word would be `house` whilst it detects special characters like `, ! ?` as separate words.
+> Full words inclide all untill a white space is found
 
 ---
 
@@ -64,3 +65,6 @@ We can use them after a verb like delete to modify the funcitonality of it.
 3. Use d followed by a movement or `dd` to delete the current line.
 4. Use c followed by a movement or `cc` to delete the current line and enter insert mode.
 5. Use a, i as modifiers for commands like delete or change.
+
+### Next chapter
+[How to VIM - Movement and deletion](vim-3)
