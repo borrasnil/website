@@ -46,11 +46,10 @@ To enter normal mode again by just pressing `<ESC>`
 ## Lesson 1.1.4: Insertion and Appending
 Press `i` to enter INSERT mode before your cursor.\
 Press `a` to enter INSERT mode after your cursor.\
-
 Press `I` to enter INSERT mode at the begining of the line.\
-Press `A` to enter INSERT mode at the end of the line.\
+Press `A` to enter INSERT mode at the end of the line.
 
-Remember you can get back on normal mode with `<ESC>`
+> Remember you can get back on normal mode with `<ESC>`
 
 # Lesson 1.1.x Summary
 1. The cursor is moved using h, j, k, l
