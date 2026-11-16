@@ -21,12 +21,17 @@ But I suggest reading this first page to understand why VIM exists and its benef
 If you want to skip the introduction head to [How to VIM - Basic usage](/tutorials/vim-1) to start with the tutorial.
 
 ### Index
-1. [How to VIM - Basic usage](vim-1)
-2. [How to VIM - Movement and deletion](vim-2)
-3. [How to VIM - Visual mode](vim-3)
-4. [How to VIM - Yank and paste commands](vim-4)
-5. [How to VIM - Finding text](vim-5)
-6. [How to VIM - Registers]()
+1.0. [How to VIM - Introduction (this page)](vim-0)
+1.1. [How to VIM - Basic usage](vim-1)
+1.2. [How to VIM - Movement and deletion](vim-2)
+1.3. [How to VIM - Visual mode](vim-3)
+1.4. [How to VIM - Yank and paste commands](vim-4)
+1.5. [How to VIM - Finding text](vim-5)
+1.6. [How to VIM - Registers](wip)
+
+2.0. [How to VIM - Automatization](wip)
+
+3.0. [How to VIM - Customize VIM](wip)
 
 ### The big question: Why should I learn VIM?
 Many times when I explain what VIM is to someone I tend to say its a text editor, but its more than that.
