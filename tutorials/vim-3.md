@@ -1,3 +1,6 @@
+---
+title: Visual mode & motions - How to VIM
+---
 # How to VIM - Visual mode & motions
 This chapter will explain how to use visual mode.
 
@@ -60,4 +63,4 @@ It is possible to pair a motion with a count to repeat X times.
 6. Use a count to repeat a motion X times.
 
 ### Next chapter
-[How to VIM - Yanking and pasting](vim-4)
+[How to VIM - Yank and put commands](vim-4)
