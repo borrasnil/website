@@ -27,9 +27,9 @@ If you want to skip the introduction head to [How to VIM - Basic usage](/tutoria
 	3. [How to VIM - Visual mode](vim-3)
 	4. [How to VIM - Yank and paste commands](vim-4)
 	5. [How to VIM - Finding text](vim-5)
-	6. [How to VIM - Registers](WIP)
-2. [How to VIM - Automatization](WIP)
-3. [How to VIM - Customize VIM](WIP)
+	6. [How to VIM - Registers](/WIP)
+2. [How to VIM - Automatization](/WIP)
+3. [How to VIM - Customize VIM](/WIP)
 
 ### The big question: Why should I learn VIM?
 Many times when I explain what VIM is to someone I tend to say its a text editor, but its more than that.
