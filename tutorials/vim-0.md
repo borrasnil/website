@@ -29,22 +29,22 @@ If you want to skip the introduction head to [How to VIM - Basic usage](/tutoria
 6. [How to VIM - Registers]()
 
 ### The big question: Why should I learn VIM?
-Many times when I explain what VIM is to someone I tend to say its a text editor, but its more than that.\
-VIM not only improves your efficiency while editing files but also uses bindings that explicitly tell what operation you are trying to execute.\
+Many times when I explain what VIM is to someone I tend to say its a text editor, but its more than that.
+VIM not only improves your efficiency while editing files but also uses bindings that explicitly tell what operation you are trying to execute.
 For users it also opens a door to using other command line programs like `grep` or `sed` which will improve you general shell experience.\
 Here are five reasons why you should take your time to learn it.
-1. **Efficiency**
-	As mentioned VIM improves your typing efficiency in text editing tasks. Default bindings, custom shortcuts and powerful text manipulation commands allows users to perform complex editing with speed and precision. Once you get used to it you will find yourself completing tasks faster than you would with traditional text editors.
-2. **Portability**
-	VIM is available on most Unix-based systems, and even on Windows. This portability ensures that you can use your skills in every environment and platform you find yourself into. It doesnt matter if its a remote server or on your local machine.
-3. **Lightweight**
-	VIM is also known for its lightweight nature. Its boot time is way smaller than your modern IDE and it uses minimal system resources.
-4. **Customizability**
-	VIM is highly customizable, you can change everything from this editor, ranging from simple colors to custom macros and shortcuts. The documentation is also extensive and covers everything you will need to customize VIM to your liking.
-5. **Command-Line Integration**
-	VIM command line nature integrates with any coding tasks and enables developers to edit files directly from the terminal. This feature is really useful when performing small code changes.
+1. **Efficiency**\
+	As mentioned VIM improves your typing efficiency in text editing tasks. Default bindings, custom shortcuts and powerful text manipulation commands allows users to perform complex editing with speed and precision. Once you get used to it you will find yourself completing tasks faster than you would with traditional text editors.\
+2. **Portability**\
+	VIM is available on most Unix-based systems, and even on Windows. This portability ensures that you can use your skills in every environment and platform you find yourself into. It doesnt matter if its a remote server or on your local machine.\
+3. **Lightweight**\
+	VIM is also known for its lightweight nature. Its boot time is way smaller than your modern IDE and it uses minimal system resources.\
+4. **Customizability**\
+	VIM is highly customizable, you can change everything from this editor, ranging from simple colors to custom macros and shortcuts. The documentation is also extensive and covers everything you will need to customize VIM to your liking.\
+5. **Command-Line Integration**\
+	VIM command line nature integrates with any coding tasks and enables developers to edit files directly from the terminal. This feature is really useful when performing small code changes.\
 
-I hope this guide will make enjoy VIM as much as I do. Now lets dive into the history of VIM.
+I hope this guide will make enjoy VIM as much as I do. Now lets dive into the origins of VIM and its reason to exist.
 
 ### Origins of VIM
 Vi IMproved as its name implies is the successor of `Vi` an old text editor used in the '60s.\

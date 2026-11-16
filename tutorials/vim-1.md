@@ -5,7 +5,7 @@ title: Basic Usage - How to VIM
 # How to VIM - Basic usage
 This first chapter will cover how to use VIM on its most surface level.
 
-> This guide has been heavily inspired by `vimtutor`
+> _Our brains think at the speed of light, VIM lets you type your thoughs at lightspeed._
 
 ## Lesson 1.1.1: Moving the cursor
 To move the cursor press h, j, k ,l as follows:
