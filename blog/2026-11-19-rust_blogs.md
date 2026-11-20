@@ -9,6 +9,7 @@ This page will work as a index for all my rust related blogs i create.
 
 - [Rust_blogs]( 2026-11-19-rust_blogs)
 - [Rust_lazylock]( 2026-11-19-rust_lazylock)
+- [Rust_niche_filling]( 2026-11-19-rust_niche_filling)
 
 
 # Cool trick i use
