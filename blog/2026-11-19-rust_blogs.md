@@ -7,8 +7,8 @@ This page will work as a index for all my rust related blogs i create.
 
 # Index 
 
-- [Rust_blogs]( 2026-11-19-rust_blogs.md)
-- [Rust_lazylock]( 2026-11-19-rust_lazylock.md)
+- [Rust_blogs]( 2026-11-19-rust_blogs)
+- [Rust_lazylock]( 2026-11-19-rust_lazylock)
 
 
 # Cool trick i use
