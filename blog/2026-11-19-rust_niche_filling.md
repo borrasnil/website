@@ -33,6 +33,8 @@ for example the `bool` type takes one byte, but only has two possible states.
 0x00000001 // false
 ```
 
+Niche filling gets `0x00000002` as `Option::None` to save up a byte in memory.
+
 
 ---
 
